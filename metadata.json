@@ -1,0 +1,6 @@
+{
+  "name": "Aether · Elemento Ar 1080p Video Generator",
+  "description": "Gerador e visualizador de vídeo 16:9 1080p com nuvens etéreas em redemoinho e loop perfeito de 10 segundos representando o Elemento Ar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
